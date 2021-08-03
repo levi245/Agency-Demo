@@ -23,7 +23,8 @@ nav ul li {
   
 }
 .navbar-nav > li > a{
-  margin-right: 0.15rem;
+  margin-right: 0.25rem;
+  margin-left: 0.25rem;
   color: var(--primary-white) !important;
 }
 
