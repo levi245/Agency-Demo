@@ -5,6 +5,7 @@ body{
 }
 :root {
   --primary-black:#000000;
+  --primary-white:  #FFFFFF;
 }
 
 /***************NAVBAR************/
@@ -24,7 +25,7 @@ nav ul li {
 navbar-nav > li > a{
   margin-right: 075rem;
   margin-left: 0.75rem;
-  color: var(--primary-black) !important;
+  color: var(--primary-white) !important;
 }
 
 .navbar-brand{
