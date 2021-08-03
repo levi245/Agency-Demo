@@ -20,12 +20,12 @@ nav a.nav-link{
 }
 nav ul li {
   text-transform: uppercase;
-
+  color: #FFFFFF;
 }
 navbar-nav > li > a{
   margin-right: 075rem;
   margin-left: 0.75rem;
-  color: #FFFFFF;
+  
 }
 
 .navbar-brand{
