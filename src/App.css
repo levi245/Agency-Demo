@@ -31,3 +31,6 @@ navbar-nav > li > a{
   max-width:  17.25rem;
   
 }
+.navbar {
+  background-color: #563d7c;
+}
