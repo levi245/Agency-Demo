@@ -24,7 +24,7 @@ nav ul li {
 }
 .navbar-nav > li > a{
   
-  color: #FFFFFF;
+  color: #FFFFFF !important;
 }
 
 .navbar-brand{
