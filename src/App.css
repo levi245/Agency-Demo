@@ -23,8 +23,8 @@ nav ul li {
   
 }
 .navbar-nav > li > a{
-  
-  color: #FFFFFF !important;
+  margin-right: 0.15rem;
+  color: var(--primary-white) !important;
 }
 
 .navbar-brand{
@@ -34,3 +34,4 @@ nav ul li {
 .navbar {
   background-color: #563d7c;
 }
+
