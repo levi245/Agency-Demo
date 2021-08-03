@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../human-resources.png'
 function navbar() {
     return (
-  <nav className="navbar navbar-expand-lg navbar-light bg-light">
+  <nav className="navbar navbar-expand-lg navbar-primary bg-primary">
     <div class="container">
   
 
